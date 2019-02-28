@@ -1,0 +1,29 @@
+{
+    "name": "endpoint",
+    "version": "1.0.0",
+    "description": "Express.js wrapper, inspired by ASP.NET",
+    "main": "dist/index.js",
+    "scripts": {
+        "build": "tsc"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/cloudrex/endpoint.js.git"
+    },
+    "keywords": [
+        "express",
+        "server",
+        "http"
+    ],
+    "author": "CloudRex <cloudrex@outlook.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/cloudrex/endpoint.js/issues"
+    },
+    "homepage": "https://github.com/cloudrex/endpoint.js#readme",
+    "dependencies": {},
+    "devDependencies": {
+        "@types/express": "^4.16.1",
+        "express": "^4.16.4"
+    }
+}
